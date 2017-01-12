@@ -1,0 +1,17 @@
+body
+{
+	background: url(seigaiha.png);
+}
+p
+{
+	margin: auto;
+	font-size: 1.5em;
+	padding: 20px;
+	transition: all 5s;
+	background: rgba(255, 255, 255, 0.3);}
+p:hover
+{
+	border-radius: 20px;
+	background: rgba(0, 0, 255, 0.1);
+	transform:rotate(360deg);
+}
